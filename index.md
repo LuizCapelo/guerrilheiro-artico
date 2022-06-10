@@ -1,45 +1,9 @@
+## *Handmaid's Tale*
+
+Leitura do *Handmaid's* me fez chegar a seguinte conclusão: o proletário deve ter uma empatia crítica pelo burguês. Há um certo grau de empatia que é necessário, afinal somos todos humanos (ou nem todos nos enxergamos assim, compartilhando ao menos uma característica fundamental ?). «*Try to think of it from their point of view*» e «*It isn't easy for them*» são falácias. Ora, eles são responsáveis (essa responsabilidade é compartilhada, afinal o proletariado também tem responsabilidade na manutenção do sistema) e os beneficiários diretos de um sistema de exploração. Ter empatia para justificar as posições de uma pessoa que lhe explora? Não, muito obrigado.
+O sistema do *Handmaid's* é um sistema escravagista muito bem azeitado. Trocando a mulher pelo preto, temos 388 anos de história do Brasil. Interessante isso. Para a autora, uma canadense, tal sistema é uma distopia brutal; para o preto brasileiro é a história de seus avôs. A protagonista é claramente uma escrava. Ainda não confirmei na leitura, mas as constantes perguntas «o que eu tenho a oferecer» e referências ao comércio já matam a questão a pau. Ora, o que ela tem a oferecer é aquilo que todo escravo tem a oferecer: seu corpo e seu trabalho.
+Acompanhando a leitura do Jessé (*A elite do atraso*) são três os elementos definidores da classe social: capital pecuniário, capital cultural e capital social. Ora, as análises liberais e marxistas clássicas focam no capital pecuniário, o dinheiro e bens acumulados pelo indivíduo determinam sua classe social. Entretanto, a bagagem cultural arquétipa de cada classe é também diferente. Os colégios, as leituras, o acesso ao aparato cultural da burguesia tipicamente não é o mesmo que o do proletariado. Negar a existência de uma diferença no acesso à produção cultural é tentar tapar o sol com uma peneira. Além disso, os círculos sociais frequentados são também distintos. Se o filho do proletário não frequenta os lugares frequentados pelos filhos das elites, se essas crianças não compartilham referências culturais, como imaginar que eles têm a mesma possibilidade de inserção social? É do humano trabalhar com aqueles ao seu redor e que ele conhece. Basta ver as numerosas dinastias que temos nos mais diversos setores.
+
 ## Uma definição do guerrilheiro ártico
 
 O guerrilheiro ártico é homem, é mulher, é pai, é mãe, é filho, é filha, é irmão, é irmã, é esposo e é esposa. Gênero e sexualidade não são elementos marcantes do guerrilheiro ártico, pois esses podem ser tão diversos quanto as experiências humanas. A característica determinante do guerrilheiro ártico é sua luta pela sobrevivência cotidiana.
-
-## Teste
-
-Eu so posso alterar aqui ?
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/LuizCapelo/guerrilheiro-artico/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LuizCapelo/guerrilheiro-artico/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
